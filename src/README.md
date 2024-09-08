@@ -8,39 +8,39 @@ bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: 我的博客简历
-tagline: 您好我是聪，一个练习时长两年半的程序员，可熟练运用主流分布式技术栈，独立开发项目。
+tagline: 您好我是聪，一个练习时长两年半的程序员🌟，可熟练运用主流分布式技术栈，独立开发项目。
 actions:
   - text: 查看简历 👣
     link: ./md/
     type: primary
 
   - text: 我的项目 💐
-    link: https://openai.gaga.plus/
+    link: https://github.com/lhccong
 
 highlights:
   - header: 
     bgImage: /assets/bg/6-light.svg
     bgImageDark: /assets/bg/6-dark.svg
     features:
-      - title: 公众号 - 抽奖系统
+      - title:  微狗实时聊天
         icon: comment-dots
-        details: 23年1月，以DDD领域驱动设计架构，开发完成分布式抽奖系统。运用了全面的分布式技术栈。
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
+        details: 微狗🐶是一个基于 Java ➕ Netty ➕ SpringBoot 开发的聊天网站🚀，旨在提供简洁、实时的聊天功能🌍。
+        link: https://github.com/lhccong/we-go
 
-      - title: 手写 MyBatis
+      - title: SQL-Dog一站式SQL平台
         icon: box-archive
-        details: 23年4月，深度学习《手写MyBatis：渐进式源码实践》一书，完整实现了一个 MyBatis ORM 框架。
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/container.html
+        details: 基于 SpringBoot + MySQL + SQL 慢镜🔍（自研）致力于 SQL 刷题、SQL 解析，帮助人们解决 SQL 能力薄弱问题，帮助每个人成为 SQL 宗师🚀。
+        link: https://github.com/lhccong/sql-dog-backend
 
-      - title: OpenAI 应用服务
+      - title: SQL 慢查询分析工具🔍
         icon: table-columns
-        details: 23年8月，学习 OpenAi 技术，学习 OpenAi SDK 开发，完成应用场景的对接使用「涵盖支付对接」。
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/tabs.html
+        details: SQL 慢镜🔍分析工具旨在帮助开发人员🕵️‍♀️识别和解决 MyBatis 数据库操作中的性能瓶颈，🚀特别是那些导致应用程序变慢或资源消耗过高的慢 SQL 查询。
+        link: https://github.com/lhccong/sql-slow-mirror
         
-      - title: SpringBoot Stater
+      - title: 轻量级 RPC 框架
         icon: table-columns
-        details: 23年10月，通过对业务项目开发中的学习，对同类共性功能的重复开发，凝练成通用的服务治理组件。
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/tabs.html
+        details: CRPC（轻量级的RPC框架🎄）是一款专为简化分布式系统中的远程过程调用（RPC）而设计的高性能框架。
+        link: https://github.com/lhccong/CRPC
 
 copyright: false
 footer: |-
