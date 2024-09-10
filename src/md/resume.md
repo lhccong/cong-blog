@@ -20,8 +20,8 @@ category:
   - [微狗实时聊天](https://github.com/lhccong/we-go) - 基于Springboot+Netty+Redis+Vue的实时聊天系统
   - [SQL-Dog一站式SQL平台](https://github.com/lhccong/sql-dog-backend) - 基于Springboot 3.0 + Java17 + MySQL 8.0 的 SQL 刷题平台
   - [短链狗短链生成](https://github.com/lhccong/short-link-dog-backend) - 基于 Redisson + Springboot + MyBatisPlus 开发的短链生成平台
-  - [COJ判题系统](https://github.com/lhccong/Coj-backend) - 本项目是基于 Spring Boot + Docker + RabbitMQ + Vue 3 的 编程算法题目在线评测系统 （简称OJ）
-  - [万物代码平台](https://github.com/lhccong/wanwu-code-backend) - 一个融合万物代码的小网站🌌-拥有API开放平台、BI智能分析平台、博客系统、伙伴匹配功能、聚合搜索功能（融合了CSDN、以及博客园的内容）
+  - [COJ判题系统](https://github.com/lhccong/Coj-backend) - 基于 Spring Boot + Docker + RabbitMQ 的算法题目在线评测系统
+  - [万物代码平台](https://github.com/lhccong/wanwu-code-backend) - 一个融合万物代码的网站🌌-拥有API开放平台、BI智能分析平台、博客系统等
   - [AI 答题应用平台](https://github.com/lhccong/LunarSurvey) - 基于 Vue 3 + Spring Boot + Redis + ChatGLM + RxJava + SSE 的 AI 答题应用平台
 - 开源组件项目：
   - [SQL 慢查询分析器](https://github.com/lhccong/sql-slow-mirror) - 用于对慢SQL进行分析打分并给出意见
