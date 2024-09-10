@@ -10,18 +10,30 @@ category:
 
 ## 个人信息
 
-- 姓名
-- 电话
-- 邮箱
-- 毕业时间
-- 工作时间
-- Github：https://github.com/fuzhengwei
-- 开源项目：[vo2dto](https://bugstack.cn/md/product/idea-plugin/vo2dto.html) - IDEA Plugin 自动转换对象插件，5.4k 下载使用
-
+- 姓名: 聪
+- 电话：18826720202
+- 邮箱：771901874@qq.com
+- 毕业时间：2023.06
+- 工作时间：2023.06-至今
+- Github：https://github.com/lhccong
+- 开源业务项目：
+  - [微狗实时聊天](https://github.com/lhccong/we-go) - 基于Springboot+Netty+Redis+Vue的实时聊天系统
+  - [SQL-Dog一站式SQL平台](https://github.com/lhccong/sql-dog-backend) - 基于Springboot 3.0 + Java17 + MySQL 8.0 的 SQL 刷题平台
+  - [短链狗短链生成](https://github.com/lhccong/short-link-dog-backend) - 基于 Redisson + Springboot + MyBatisPlus 开发的短链生成平台
+  - [COJ判题系统](https://github.com/lhccong/Coj-backend) - 本项目是基于 Spring Boot + Docker + RabbitMQ + Vue 3 的 编程算法题目在线评测系统 （简称OJ）
+  - [万物代码平台](https://github.com/lhccong/wanwu-code-backend) - 一个融合万物代码的小网站🌌-拥有API开放平台、BI智能分析平台、博客系统、伙伴匹配功能、聚合搜索功能（融合了CSDN、以及博客园的内容）
+  - [AI 答题应用平台](https://github.com/lhccong/LunarSurvey) - 基于 Vue 3 + Spring Boot + Redis + ChatGLM + RxJava + SSE 的 AI 答题应用平台
+- 开源组件项目：
+  - [SQL 慢查询分析器](https://github.com/lhccong/sql-slow-mirror) - 用于对慢SQL进行分析打分并给出意见
+  - [代码透镜评审工具](https://github.com/lhccong/CodeLens) - 基于 OpenAI 的代码透镜评审工具
+  - [轻量级RPC框架](https://github.com/lhccong/CRPC) - 基于 Netty 的轻量级RPC框架
+  - [动态线程池](https://github.com/lhccong/flex-pool) - 通过动态可视化监控线程池的运行状态以及实时修改线程池大小
+  - [AsyncX 并行框架](https://github.com/lhccong/AsyncX) - 动态编排线程的执行顺序
+  - [Switch-HTTP](https://github.com/lhccong/switch-http) - 开发组件的时候基于用户的引入的请求框架动态切换
 ## 毕业院校
 
-- 时间、院校、专业、学位
-- 荣誉、成绩
+- 广州软件学院（软件工程专业）
+- 2019.09 - 2023.06
 
 ## 专业技能
 
@@ -42,13 +54,12 @@ category:
 - 掌握 Linux 常用命令，了解 Nginx 服务器的反向代理、负载均衡、动静分离等。
 - 熟练运用 DDD 四层架构领域驱动设计，构建出易于迭代和维护的工程架构，遵守整洁代码、洋葱架构设计思想。
 
-## 工作经历【在校生无】
+## 工作经历
 
-- 公司
-- 岗位
-- 时间
-- 职责【可选】
-- 成绩【可选】
+- 公司：优特云科技
+- 岗位：软件工程师
+- 时间：2023.06-至今
+- 职责：负责优特云科技的软件开发工作，主要负责优特云 AI 产品的研发。
 
 ## 项目经验
 
