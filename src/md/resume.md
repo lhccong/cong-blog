@@ -22,7 +22,7 @@ category:
   - [短链狗短链生成](https://github.com/lhccong/short-link-dog-backend) - 基于 Redisson + Springboot + MyBatisPlus 开发的短链生成平台
   - [COJ判题系统](https://github.com/lhccong/Coj-backend) - 基于 Spring Boot + Docker + RabbitMQ 的算法题目在线评测系统
   - [万物代码平台](https://github.com/lhccong/wanwu-code-backend) - 一个融合万物代码的网站🌌-拥有API开放平台、BI智能分析平台、博客系统等
-  - [AI 答题应用平台](https://github.com/lhccong/LunarSurvey) - 基于 Vue 3 + Spring Boot + Redis + ChatGLM + RxJava + SSE 的 AI 答题应用平台
+  - [AI 答题应用平台](https://github.com/lhccong/LunarSurvey) - 基于 Vue 3 + Spring Boot + Redis + ChatGLM + RxJava + SSE 的AI答题平台
 - 开源组件项目：
   - [SQL 慢查询分析器](https://github.com/lhccong/sql-slow-mirror) - 用于对慢SQL进行分析打分并给出意见
   - [代码透镜评审工具](https://github.com/lhccong/CodeLens) - 基于 OpenAI 的代码透镜评审工具
